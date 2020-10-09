@@ -116,7 +116,7 @@
 			isa = PBXGroup;
 			children = (
 				D2515EC91BC1A80200ED606F /* Products */,
-				D2F8347218EF2C09000BB281 /* Source */,
+				D2F8347218EF2C09000BB281 /* Sources */,
 			);
 			sourceTree = "<group>";
 			usesTabs = 0;
@@ -154,7 +154,7 @@
 			path = "Text Fields";
 			sourceTree = "<group>";
 		};
-		D2F8347218EF2C09000BB281 /* Source */ = {
+		D2F8347218EF2C09000BB281 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
 				D2C30A6F1BC120C900984652 /* Actions */,
@@ -168,7 +168,7 @@
 				D2C30A811BC120C900984652 /* AlertVisualStyle.swift */,
 				894DA5AA201C73B400603715 /* Bundle+Convenience.swift */,
 			);
-			path = Source;
+			path = Sources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
